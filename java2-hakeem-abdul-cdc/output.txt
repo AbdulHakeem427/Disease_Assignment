@@ -1,0 +1,14 @@
+Deserialized Diseases:
+Disease [diseaseId=null, name=null]
+Disease [diseaseId=null, name=null]
+
+Deserialized Patients:
+Patient [patientId=3cb7c4a4-7ec3-4049-8140-fe92f2ac39cf, firstName=John, lastName=Doe, exposures=[], diseaseIds=[]]
+Patient [patientId=ca8eea17-fecc-480e-88d1-c0d9d0fe6fd2, firstName=Jane, lastName=Smith, exposures=[], diseaseIds=[]]
+Deserialized Diseases:
+Disease [diseaseId=null, name=null]
+Disease [diseaseId=null, name=null]
+
+Deserialized Patients:
+Patient [patientId=140fb852-5d9c-4d9f-85e3-e21e32c4398c, firstName=John, lastName=Doe, exposures=[], diseaseIds=[]]
+Patient [patientId=88db2002-a3d0-42a7-8490-10370781d842, firstName=Jane, lastName=Smith, exposures=[], diseaseIds=[]]
