@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Servlet Example Plug-in
+Bundle-SymbolicName: com.polarion.example.servlet;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-ClassPath: example-servlet.jar
+Bundle-Vendor: Polarion Software
+Require-Bundle: com.polarion.portal.tomcat,
+ com.polarion.alm.tracker
+Bundle-RequiredExecutionEnvironment: JavaSE-11
